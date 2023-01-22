@@ -15,7 +15,7 @@ int main()
     }
 }
 
-/* Ignore it.
+/* Ignore it..
 i       |       n = 6                                    |       divisors
 1               6 % 1 = 0                                |            1
 2               6 % 2 = 0                                |            2
